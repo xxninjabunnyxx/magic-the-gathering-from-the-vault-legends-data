@@ -1,0 +1,119 @@
+---
+object: card
+id: bd1206d4-ce7d-4504-addc-8182a586087e
+oracle_id: c6e17443-2379-419d-8c32-13ea9bf52993
+multiverse_ids:
+- 244669
+mtgo_id: 42247
+mtgo_foil_id: 42248
+tcgplayer_id: 48156
+cardmarket_id: 248513
+name: Rafiq of the Many
+lang: en
+released_at: '2011-08-26'
+uri: https://api.scryfall.com/cards/bd1206d4-ce7d-4504-addc-8182a586087e
+scryfall_uri: https://scryfall.com/card/v11/10/rafiq-of-the-many?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/b/d/bd1206d4-ce7d-4504-addc-8182a586087e.jpg?1569176012
+  normal: https://cards.scryfall.io/normal/front/b/d/bd1206d4-ce7d-4504-addc-8182a586087e.jpg?1569176012
+  large: https://cards.scryfall.io/large/front/b/d/bd1206d4-ce7d-4504-addc-8182a586087e.jpg?1569176012
+  png: https://cards.scryfall.io/png/front/b/d/bd1206d4-ce7d-4504-addc-8182a586087e.png?1569176012
+  art_crop: https://cards.scryfall.io/art_crop/front/b/d/bd1206d4-ce7d-4504-addc-8182a586087e.jpg?1569176012
+  border_crop: https://cards.scryfall.io/border_crop/front/b/d/bd1206d4-ce7d-4504-addc-8182a586087e.jpg?1569176012
+mana_cost: "{1}{G}{W}{U}"
+cmc: 4.0
+type_line: Legendary Creature — Human Knight
+oracle_text: |-
+  Exalted (Whenever a creature you control attacks alone, that creature gets +1/+1 until end of turn.)
+  Whenever a creature you control attacks alone, it gains double strike until end of turn.
+power: '3'
+toughness: '3'
+colors:
+- G
+- U
+- W
+color_identity:
+- G
+- U
+- W
+keywords:
+- Exalted
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: legal
+games:
+- paper
+- mtgo
+reserved: false
+foil: true
+nonfoil: false
+finishes:
+- foil
+oversized: false
+promo: false
+reprint: true
+variation: false
+set_id: b83c0908-ae67-47eb-9099-7a1791ada84a
+set: v11
+set_name: 'From the Vault: Legends'
+set_type: from_the_vault
+set_uri: https://api.scryfall.com/sets/b83c0908-ae67-47eb-9099-7a1791ada84a
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Av11&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/v11?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/bd1206d4-ce7d-4504-addc-8182a586087e/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ac6e17443-2379-419d-8c32-13ea9bf52993&unique=prints
+collector_number: '10'
+digital: false
+rarity: mythic
+flavor_text: Many sigils, one purpose.
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Wayne Reynolds
+artist_ids:
+- afc47cec-3ccc-404e-a8c6-4d83dd504271
+illustration_id: 5dc21367-a96a-4d7e-81f7-8b23cc46b2e5
+border_color: black
+frame: '2003'
+full_art: false
+textless: false
+booster: false
+story_spotlight: false
+edhrec_rank: 7044
+penny_rank: 3094
+prices:
+  usd: 
+  usd_foil: '2.65'
+  usd_etched: 
+  eur: 
+  eur_foil: '2.50'
+  tix: 
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=244669
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Rafiq+of+the+Many&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Rafiq+of+the+Many&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Rafiq+of+the+Many
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/48156?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Rafiq+of+the+Many&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards/42247?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

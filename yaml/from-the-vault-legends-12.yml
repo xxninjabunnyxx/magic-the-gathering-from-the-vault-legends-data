@@ -1,0 +1,113 @@
+---
+object: card
+id: b4e9ec34-4bf6-46da-b2c4-acedb1b19210
+oracle_id: 70503280-6bdf-431d-8213-367a9783463a
+multiverse_ids:
+- 244663
+mtgo_id: 42229
+mtgo_foil_id: 42230
+tcgplayer_id: 48152
+cardmarket_id: 248515
+name: Sun Quan, Lord of Wu
+lang: en
+released_at: '2011-08-26'
+uri: https://api.scryfall.com/cards/b4e9ec34-4bf6-46da-b2c4-acedb1b19210
+scryfall_uri: https://scryfall.com/card/v11/12/sun-quan-lord-of-wu?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/b/4/b4e9ec34-4bf6-46da-b2c4-acedb1b19210.jpg?1569205984
+  normal: https://cards.scryfall.io/normal/front/b/4/b4e9ec34-4bf6-46da-b2c4-acedb1b19210.jpg?1569205984
+  large: https://cards.scryfall.io/large/front/b/4/b4e9ec34-4bf6-46da-b2c4-acedb1b19210.jpg?1569205984
+  png: https://cards.scryfall.io/png/front/b/4/b4e9ec34-4bf6-46da-b2c4-acedb1b19210.png?1569205984
+  art_crop: https://cards.scryfall.io/art_crop/front/b/4/b4e9ec34-4bf6-46da-b2c4-acedb1b19210.jpg?1569205984
+  border_crop: https://cards.scryfall.io/border_crop/front/b/4/b4e9ec34-4bf6-46da-b2c4-acedb1b19210.jpg?1569205984
+mana_cost: "{4}{U}{U}"
+cmc: 6.0
+type_line: Legendary Creature — Human Soldier
+oracle_text: Creatures you control have horsemanship. (They can't be blocked except
+  by creatures with horsemanship.)
+power: '4'
+toughness: '4'
+colors:
+- U
+color_identity:
+- U
+keywords: []
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: not_legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: not_legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: legal
+games:
+- paper
+- mtgo
+reserved: false
+foil: true
+nonfoil: false
+finishes:
+- foil
+oversized: false
+promo: false
+reprint: true
+variation: false
+set_id: b83c0908-ae67-47eb-9099-7a1791ada84a
+set: v11
+set_name: 'From the Vault: Legends'
+set_type: from_the_vault
+set_uri: https://api.scryfall.com/sets/b83c0908-ae67-47eb-9099-7a1791ada84a
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Av11&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/v11?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/b4e9ec34-4bf6-46da-b2c4-acedb1b19210/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A70503280-6bdf-431d-8213-367a9783463a&unique=prints
+collector_number: '12'
+digital: false
+rarity: mythic
+flavor_text: '"One score and four he reigned, the Southland king: / A dragon coiled,
+  a tiger poised below the mighty Yangtze."'
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Xu Xiaoming
+artist_ids:
+- ec19795d-df8d-4f61-a595-f548aaa93c40
+illustration_id: 698cf978-f85e-4149-99cf-c9000b514834
+border_color: black
+frame: '2003'
+full_art: false
+textless: false
+booster: false
+story_spotlight: false
+edhrec_rank: 9427
+prices:
+  usd: 
+  usd_foil: '56.56'
+  usd_etched: 
+  eur: 
+  eur_foil: '17.50'
+  tix: 
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=244663
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Sun+Quan%2C+Lord+of+Wu&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Sun+Quan%2C+Lord+of+Wu&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Sun+Quan%2C+Lord+of+Wu
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/48152?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Sun+Quan%2C+Lord+of+Wu&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards/42229?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall
